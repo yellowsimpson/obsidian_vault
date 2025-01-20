@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "2840bdb8de6f87cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f97291f3fa4d98b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f98e623ce50f0ee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8024b9dd6d763ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "컴퓨터 구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6a7c8cf74ddacfa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad8b9f699d038419",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36f5f1ff977edd75",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bb2682f5a8735bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed177e574189c748",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a81d954349da3c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "627fbe508f2fac93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2376cd74421425bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e20a38415e1320dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c79dde89e9c2307",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "컴퓨터 구조.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2bb85e8b2538f33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "컴퓨터 구조.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0257a3fab418b11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce904adb86d0ad86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "컴퓨터 구조.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e8024b9dd6d763ff",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "컴퓨터 구조.md"
+  ]
+}
