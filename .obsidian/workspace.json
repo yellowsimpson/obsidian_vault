@@ -8,170 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91eb2cfb5ff171ac",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "eb9f5dac09ef54d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/라즈베리파이4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "856771435f4d66fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/1장. 라즈베리파이와 LED 모듈의 연결 방법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43cd5c0a1b341525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/과제/Practice Quiz 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ebb5c547f413b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/과제/Practice Quiz 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb24b9c4ba38e1b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/과제/Practice Quiz 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "156669e4e20b1fa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/과제/Practice Quiz 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7d1dc8cb2eb647c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/과제/Practice Quiz 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0efa7cb5cfe3f42a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/과제/Practice Quiz 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93df170e30934bf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/과제/Practice Quiz 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd3532f856c9809e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/과제/Practice Quiz 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09a905780b516ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/과제/Practice Quiz 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24e9738d51efe543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iot/과제/Practice Quiz 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa2e596ae76c2206",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "857fa22f8939692e",
             "type": "leaf",
             "state": {
@@ -183,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "iot/과제/Practice Quiz 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "iot/과제/Practice Quiz 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "iot/과제/Practice Quiz 1.md"
               }
             }
           }
@@ -311,24 +146,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa2e596ae76c2206",
+  "active": "857fa22f8939692e",
   "lastOpenFiles": [
-    "iot/과제/Practice Quiz 12.md",
-    "iot/과제/Practice Quiz 11.md",
-    "iot/과제/Practice Quiz 10.md",
-    "iot/과제/Practice Quiz 9.md",
-    "iot/과제/Practice Quiz 8.md",
-    "iot/과제/Practice Quiz 6.md",
+    "iot/과제/Practice Quiz 4.md",
+    "iot/라즈베리파이4.md",
+    "iot/1장. 라즈베리파이와 LED 모듈의 연결 방법.md",
     "iot/과제/Practice Quiz 1.md",
+    "iot/과제/Practice Quiz 2.md",
+    "iot/과제/Practice Quiz 3.md",
+    "iot/과제/Practice Quiz 6.md",
+    "iot/과제/Practice Quiz 8.md",
+    "iot/과제/Practice Quiz 10.md",
+    "iot/과제/Practice Quiz 11.md",
+    "스크린샷 2025-01-22 오전 8.24.22.png",
+    "Obsidian 사용법/Markdown 사용법.md",
+    "Obsidian 사용법",
+    "README.md",
+    "iot/과제/Practice Quiz 12.md",
+    "iot/과제/Practice Quiz 9.md",
     "iot/과제/Practice Quiz 7.md",
     "795851C9317F595AC838785153CD.jpg",
     "iot/과제/Practice Quiz 5.md",
-    "iot/과제/Practice Quiz 4.md",
-    "iot/과제/Practice Quiz 3.md",
-    "iot/과제/Practice Quiz 2.md",
     "iot/과제",
-    "iot/1장. 라즈베리파이와 LED 모듈의 연결 방법.md",
-    "iot/라즈베리파이4.md",
     "Raspberry Pi 40-pin Info..png",
     "스크린샷 2025-01-22 오후 7.51.48.png",
     "스크린샷 2025-01-22 오후 7.51.23.png",
@@ -341,9 +180,7 @@
     "컴퓨터 구조/Chapter1/1.8 단일프로세서에서 멀티프로세서로의 변화.md",
     "스크린샷 2025-01-22 오전 8.51.51.png",
     "스크린샷 2025-01-22 오전 8.51.31.png",
-    "스크린샷 2025-01-22 오전 8.24.22.png",
     "스크린샷 2025-01-22 오전 8.20.14.png",
-    "README.md",
     "iot",
     "Welcome.md",
     "컴퓨터 구조/Chapter1/1.6 성능.md",
