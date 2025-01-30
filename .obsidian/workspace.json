@@ -4,71 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6b9c3ebd4069b1",
+        "id": "628cdf665a07ff25",
         "type": "tabs",
         "children": [
           {
-            "id": "857fa22f8939692e",
+            "id": "df9ca0b47e34af44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iot/과제/Practice Quiz 1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4f8ad2fead94d3c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian 사용법/Markdown 사용법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d443c4253ad15577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C언어/int main()과 int main(void)의 차이점.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "433cc8ae88df046b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C언어/문법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c89cd4ca3e398698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C언어/문법.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -103,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -111,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 327.50390243530273
+    "width": 286.50390243530273
   },
   "right": {
     "id": "2376cd74421425bf",
@@ -134,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C언어/문법.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "README의 백링크"
             }
           },
           {
@@ -151,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C언어/문법.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "README의 나가는 링크"
             }
           },
           {
@@ -165,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -174,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C언어/문법.md"
-              }
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "README 개요"
             }
           }
         ]
@@ -195,16 +162,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c89cd4ca3e398698",
+  "active": "ed177e574189c748",
   "lastOpenFiles": [
-    "스크린샷 2025-01-25 오후 3.51.43.png",
-    "C언어/++i와 i++의 차이점.md",
-    "C언어/문법.md",
-    "C언어/int main()과 void main()의 차이점.md",
-    "C언어/int main()과 int main(void)의 차이점.md",
-    "C언어/Logical Operators.md",
     "iot/과제/Practice Quiz 1.md",
     "Obsidian 사용법/Markdown 사용법.md",
+    "C언어/int main()과 int main(void)의 차이점.md",
+    "C언어/문법.md",
+    "패스트캠퍼스/올인원 패키지 C++실력완성/Chpater 1.md",
+    "스크린샷 2025-01-29 오후 9.52.01.png",
+    "패스트캠퍼스/올인원 패키지 C++실력완성",
+    "패스트캠퍼스",
+    "스크린샷 2025-01-25 오후 3.51.43.png",
+    "C언어/++i와 i++의 차이점.md",
+    "C언어/int main()과 void main()의 차이점.md",
+    "C언어/Logical Operators.md",
     "Raspberry Pi 40-pin Info..png",
     "create a link.md",
     "README.md",
@@ -233,9 +204,6 @@
     "스크린샷 2025-01-22 오후 7.50.08 1.png",
     "스크린샷 2025-01-22 오후 7.50.08.png",
     "컴퓨터 구조/Chapter1/1.10 오류 및 함정.md",
-    "컴퓨터 구조/Chapter1/용어 정리.md",
-    "스크린샷 2025-01-22 오전 8.51.51.png",
-    "스크린샷 2025-01-22 오전 8.51.31.png",
     "iot",
     "컴퓨터 구조/Chapter1",
     "무제 폴더 1",
