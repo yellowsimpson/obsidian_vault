@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b5518cf8e77b37fd",
+        "id": "9a6cfbfa88420b62",
         "type": "tabs",
         "children": [
           {
-            "id": "a1bdd72ad597e0a3",
+            "id": "1562b1f5276ef257",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/2장. 신경망의 수학적 구성 요소/2.2 신경망을 위한 데이터 표현.md",
+                "file": "Deep Learning/12장. 생성 모델을 위한 딥러닝/12.4 변이형 오토인코더를 사용한 이미지 생성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 신경망을 위한 데이터 표현"
+              "title": "12.4 변이형 오토인코더를 사용한 이미지 생성"
+            }
+          },
+          {
+            "id": "64d748a0909dbbfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "패스트캠퍼스/Midjourney와 Stable diffusion으로 만드는 감쪽같은 AI 가상 모델/Part1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part1"
             }
           }
         ]
@@ -163,19 +177,39 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ed177e574189c748",
+  "active": "1562b1f5276ef257",
   "lastOpenFiles": [
+    "패스트캠퍼스/Midjourney와 Stable diffusion으로 만드는 감쪽같은 AI 가상 모델/Part1.md",
+    "Deep Learning/12장. 생성 모델을 위한 딥러닝/12.4 변이형 오토인코더를 사용한 이미지 생성.md",
+    "Deep Learning/12장. 생성 모델을 위한 딥러닝/12.1 텍스트 생성.md",
+    "패스트캠퍼스/Midjourney와 Stable diffusion으로 만드는 감쪽같은 AI 가상 모델/Part2.md",
+    "스크린샷 2025-02-13 오전 12.34.54.png",
+    "스크린샷 2025-02-13 오전 12.26.03.png",
+    "Deep Learning/2장. 신경망의 수학적 구성 요소/2.3 신경망의 톱니바퀴_ 텐서 연산.md",
+    "스크린샷 2025-02-13 오전 12.11.17.png",
+    "Deep Learning/12장. 생성 모델을 위한 딥러닝",
     "Deep Learning/진도표.md",
+    "Deep Learning/1장. 딥렁닝이란 무엇인가?/무제",
+    "패스트캠퍼스/Midjourney와 Stable diffusion으로 만드는 감쪽같은 AI 가상 모델/진도표.md",
+    "패스트캠퍼스/Midjourney와 Stable diffusion으로 만드는 감쪽같은 AI 가상 모델/사용법.md",
+    "스크린샷 2025-02-12 오후 11.08.57.png",
+    "스크린샷 2025-02-12 오후 11.08.29.png",
+    "스크린샷 2025-02-12 오후 11.08.05.png",
+    "스크린샷 2025-02-12 오후 2.57.51.png",
+    "스크린샷 2025-02-12 오후 2.55.45.png",
+    "스크린샷 2025-02-12 오후 2.54.51.png",
+    "스크린샷 2025-02-12 오후 2.53.09.png",
+    "패스트캠퍼스/올인원 패키지 C++실력완성/Chpater 1.md",
+    "패스트캠퍼스/올인원 패키지 C++실력완성/Chpater 7.md",
+    "패스트캠퍼스/Midjourney와 Stable diffusion으로 만드는 감쪽같은 AI 가상 모델",
+    "Deep Learning/2장. 신경망의 수학적 구성 요소/노트 정리.md",
     "Deep Learning/2장. 신경망의 수학적 구성 요소/2.2 신경망을 위한 데이터 표현.md",
-    "스크린샷 2025-02-10 오후 4.09.27.png",
     "Deep Learning/2장. 신경망의 수학적 구성 요소/2.1 신경망과의 첫 만남.md",
-    "스크린샷 2025-02-10 오후 12.26.56.png",
     "C언어/문법.md",
     "C언어/++i와 i++의 차이점.md",
     "컴퓨터 구조/2장.md",
     "Deep Learning/1장. 딥렁닝이란 무엇인가?/1.3 왜 딥러닝일까? 왜 지금일까?.md",
     "Deep Learning/2장. 신경망의 수학적 구성 요소",
-    "스크린샷 2025-02-10 오후 12.02.17.png",
     "Deep Learning/1장. 딥렁닝이란 무엇인가?/1.1 인공지능과 머신러닝, 딥러닝.md",
     "Deep Learning/1장. 딥렁닝이란 무엇인가?/1.1.5 그림 3개로 딥러닝의 작동 원리 이해하기.md",
     "Deep Learning/1장. 딥렁닝이란 무엇인가?/1.1.4 딥러닝에서 '딥'이란 무엇일까?.md",
@@ -183,32 +217,12 @@
     "Deep Learning/1장. 딥렁닝이란 무엇인가?/1.1.2 머신 러닝.md",
     "Deep Learning/1장. 딥렁닝이란 무엇인가?/1.1.7 지금까지의 딥러닝의 성과.md",
     "Deep Learning/1장. 딥렁닝이란 무엇인가?/1.2 딥러닝 이전 머신러닝의 간략한 역사.md",
-    "스크린샷 2025-02-10 오전 10.31.16.png",
-    "스크린샷 2025-02-10 오전 10.29.43.png",
     "Open CV/NumPy.md",
-    "스크린샷 2025-02-06 오후 7.18.50.png",
-    "스크린샷 2025-02-06 오후 6.34.56.png",
-    "Deep Learning/1장. 딥렁닝이란 무엇인가?/1.2.2 초차기 신경망.md",
-    "스크린샷 2025-02-06 오후 4.11.46.png",
-    "스크린샷 2025-02-06 오후 4.10.37.png",
-    "스크린샷 2025-02-06 오후 4.06.30.png",
     "Deep Learning/1장. 딥렁닝이란 무엇인가?",
     "Deep Learning",
-    "Open CV/코드 저장소.md",
-    "패스트캠퍼스/올인원 패키지 C++실력완성/Chpater 1.md",
-    "iot/1장. 라즈베리파이와 LED 모듈의 연결 방법.md",
     "Open CV",
-    "README.md",
-    "iot/과제/Practice Quiz 1.md",
-    "Obsidian 사용법/Markdown 사용법.md",
-    "C언어/int main()과 int main(void)의 차이점.md",
     "패스트캠퍼스/올인원 패키지 C++실력완성",
     "패스트캠퍼스",
-    "C언어/int main()과 void main()의 차이점.md",
-    "C언어/Logical Operators.md",
-    "C언어",
-    "Obsidian 사용법",
-    "iot/과제",
-    "iot"
+    "C언어"
   ]
 }
